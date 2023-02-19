@@ -1,0 +1,21 @@
+{
+  "name": "gruber-darker",
+  "displayName": "gruber-darker",
+  "description": "port of gruber-darker from emacs.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gruber-darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruber-darker-color-theme.json"
+      }
+    ]
+  }
+}

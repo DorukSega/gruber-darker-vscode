@@ -39,7 +39,7 @@
       "name": "support.variable.magic.python",
       "scope": "support.variable.magic.python",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -81,7 +81,7 @@
       "name": "variable.language.rust",
       "scope": "variable.language.rust",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -252,7 +252,7 @@
       "name": "java variable.name",
       "scope": "meta.definition.variable.name.java",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -336,7 +336,7 @@
       "name": "js variable readwrite",
       "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -412,7 +412,7 @@
       "name": "js dom variable",
       "scope": "support.variable.dom,support.variable.property.dom",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -545,7 +545,7 @@
       "name": "Variables",
       "scope": "variable",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -1283,7 +1283,7 @@
       "name": "cs local variable",
       "scope": "entity.name.variable.local.cs",
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -1582,7 +1582,7 @@
         "meta.definition.variable.name.groovy"
       ],
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -1624,7 +1624,7 @@
         "text.bracketed"
       ],
       "settings": {
-        "foreground": "#e4e4ef"
+        "foreground": "#f5f5f5"
       }
     },
     {
@@ -1932,7 +1932,7 @@
     "editor.rangeHighlightBackground": "#ffffff0b",
     "editor.rangeHighlightBorder": "#ffffff00",
     "editor.hoverHighlightBackground": "#ffffff10",
-    "editor.wordHighlightStrongBackground": "#f438419d",
+    "editor.wordHighlightStrongBackground": "#ffffff00",
     "editor.wordHighlightBackground": "#575757b8",
     "editor.lineHighlightBackground": "#10101000",
     "editor.lineHighlightBorder": "#28282800",
